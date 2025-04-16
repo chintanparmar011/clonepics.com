@@ -204,7 +204,7 @@ color: rgb(24, 25, 26);
     text-decoration: none;
     border-radius: 5px;
     border: transparent;
-    background-image: linear-gradient(rgb(158, 201, 214),rgb(46, 156, 196));
+    background-color: rgb(99, 204, 243);
     transition: all 0.3s ease;
 }
 .item>a:hover{
